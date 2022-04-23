@@ -258,7 +258,7 @@ td, th {
 	margin: 2em auto;
 }
 
-@media screen and (max-width: 812px) {
+@media screen and (max-width: 844px) {
 	.caixa, .principal, .conteudo-beneficios, .mapa-conteudo,.video {
 		width: auto;
 	}
@@ -276,7 +276,7 @@ td, th {
 	}
 	
 }
-@media screen and (max-width: 812px) {
+@media screen and (max-width: 844px) {
 	
 	.caixa, .produtos, .produtos li {
 		width: auto;
@@ -284,7 +284,7 @@ td, th {
 	
 }
 
-@media screen and (max-width: 812px) {
+@media screen and (max-width: 844px) {
 	.caixa, .main-todas {
 		width: auto;
 	}
